@@ -1,0 +1,21 @@
+.header{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:10px;
+    background-color:lightblue;
+}
+.options{
+    display:flex;
+    flex-direction: row;
+    padding:10px;
+
+}
+.option{
+    margin-left:60%;
+    cursor:pointer;
+    color:orangered;
+}
+.brand{
+    color:orangered;
+}

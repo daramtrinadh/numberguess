@@ -1,0 +1,49 @@
+.home-container{
+    /* background-image:url('https://images.pexels.com/photos/1314529/pexels-photo-1314529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'); */
+    background-size:cover;
+    height:100vh;
+    margin-bottom:10px;
+    padding:20px;
+    display:flex;
+    flex-direction: column;
+    align-items:center; 
+}
+.heading{
+    color:rgb(72, 42, 12);
+}
+.info{
+    color:rgb(14, 14, 15);
+}
+.input{
+    width:30%;
+    margin:20px;
+}
+.enterbutton{
+    background-color: chocolate;
+    border-radius: 10px;
+    padding:10px;
+    color:white;
+    border-width:0px;
+    margin:10px;
+}
+.warning{
+    color:red;
+}
+.retry{
+    background-color:yellow;
+    color:black;
+    border-radius:10px;
+    padding:10px;
+    border-width:0px;
+}
+.score{
+    color:orangered;
+
+}
+.points{
+    color:green;
+}
+.playagain{
+    text-decoration: dashed;
+    color:rgb(192, 19, 120);
+}
